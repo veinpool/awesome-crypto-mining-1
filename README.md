@@ -54,6 +54,7 @@
 - **[Antpool](https://www.antpool.com/)** - One of the largest mining pools operated by Bitmain, supporting Bitcoin and other cryptocurrencies.
 - **[2Miners](https://2miners.com/)** - A mining pool supporting a variety of cryptocurrencies with a user-friendly interface.
 - **[Ethermine](https://ethermine.org/)** - The largest Ethereum mining pool, known for its low fees and high payouts.
+- **[VEIN Pool](https://veinpool.fr/)** - A European multi-coin pool running its own full nodes, with PPLNS and solo ports on 20+ PoW coins and live rig statistics.
 
 ## Cloud Mining
 
